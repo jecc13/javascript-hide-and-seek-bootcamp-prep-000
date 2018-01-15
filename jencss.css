@@ -1,0 +1,23 @@
+
+#app {
+  border-style: solid;
+}
+
+.unranked-list {
+  background-color:Tomato;  
+}
+
+.ranked-list {
+  background-color:yellow;  
+}
+
+#nested {
+  border-style: double;
+  border-color: blue;
+}
+
+#grand-node {
+    border: 2px dotted red;
+    border-radius: 5px;
+}
+
